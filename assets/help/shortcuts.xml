@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<shortcuts>
+
+    <section name="EDITING">
+        <entry>
+            <keys>Z</keys>
+            <description>select previous colour</description>
+        </entry>
+        <entry>
+            <keys>X</keys>
+            <description>select next colour</description>
+        </entry>
+        <entry>
+            <keys>=</keys>
+            <description>zoom in</description>
+        </entry>
+        <entry>
+            <keys>-</keys>
+            <description>zoom out</description>
+        </entry>
+        <entry>
+            <keys>SHIFT+LEFT</keys>
+            <description>move left</description>
+        </entry>
+        <entry>
+            <keys>SHIFT+RIGHT</keys>
+            <description>move right</description>
+        </entry>
+        <entry>
+            <keys>SHIFT+UP</keys>
+            <description>move up</description>
+        </entry>
+        <entry>
+            <keys>SHIFT+DOWN</keys>
+            <description>move down</description>
+        </entry>
+        <entry>
+            <keys>SHIFT+HOME</keys>
+            <description>center sprite</description>
+        </entry>
+        <entry>
+            <keys>CTRL+G</keys>
+            <description>toggle grid</description>
+        </entry>
+        <entry>
+            <keys>CTRL+Z</keys>
+            <description>undo</description>
+        </entry>
+        <entry>
+            <keys>CTRL+R</keys>
+            <description>redo</description>
+        </entry>
+        <entry>
+            <keys>CTRL+C</keys>
+            <description>copy (current sprite)</description>
+        </entry>
+        <entry>
+            <keys>CTRL+V</keys>
+            <description>paste</description>
+        </entry>
+        <entry>
+            <keys>CTRL+9</keys>
+            <description>flip pixels on vertical axis</description>
+        </entry>
+        <entry>
+            <keys>CTRL+0</keys>
+            <description>flip pixels on horizontal axis</description>
+        </entry>
+        <entry>
+            <keys>CTRL+7</keys>
+            <description>rotate pixels left</description>
+        </entry>
+        <entry>
+            <keys>CTRL+8</keys>
+            <description>rotate pixels right</description>
+        </entry>
+        <entry>
+            <keys>CTRL+5</keys>
+            <description>rotate pixels up</description>
+        </entry>
+        <entry>
+            <keys>CTRL+6</keys>
+            <description>rotate pixels down</description>
+        </entry>
+        <entry>
+            <keys>DELETE</keys>
+            <description>clear pixels</description>
+        </entry>
+        <entry>
+            <keys>B+CLICK</keys>
+            <description>bucket fill</description>
+        </entry>
+        <entry>
+            <keys>LEFT-CLICK</keys>
+            <description>draw</description>
+        </entry>
+        <entry>
+            <keys>RIGHT-CLICK</keys>
+            <description>erase</description>
+        </entry>
+    </section>
+
+    <section name="SPRITE_SET">
+        <entry>
+            <keys>CTRL+M</keys>
+            <description>append new multicolor sprite</description>
+        </entry>
+        <entry>
+            <keys>CTRL+N</keys>
+            <description>append new hi-res sprite</description>
+        </entry>
+        <entry>
+            <keys>CTRL+P</keys>
+            <description>new project</description>
+        </entry>
+        <entry>
+            <keys>CTRL+SHIFT+LEFT</keys>
+            <description>move sprite left</description>
+        </entry>
+        <entry>
+            <keys>CTRL+SHIFT+RIGHT</keys>
+            <description>move sprite right</description>
+        </entry>
+        <entry>
+            <keys>CTRL+LEFT</keys>
+            <description>select previous sprite</description>
+        </entry>
+        <entry>
+            <keys>CTRL+RIGHT</keys>
+            <description>select next sprite</description>
+        </entry>
+        <entry>
+            <keys>LEFT</keys>
+            <description>scroll preview panel left</description>
+        </entry>
+        <entry>
+            <keys>RIGHT</keys>
+            <description>scroll preview panel right</description>
+        </entry>
+        <entry>
+            <keys>CTRL+X</keys>
+            <description>remove current sprite</description>
+        </entry>
+        <entry>
+            <keys>CTRL+HOME</keys>
+            <description>select first sprite</description>
+        </entry>
+        <entry>
+            <keys>CTRL+END</keys>
+            <description>select last sprite</description>
+        </entry>
+        <entry>
+            <keys>HOME</keys>
+            <description>scroll to beginning of preview panel</description>
+        </entry>
+        <entry>
+            <keys>END</keys>
+            <description>scroll to end of preview panel</description>
+        </entry>
+    </section>
+
+    <section name="ANIMATION">
+        <entry>
+            <keys>F10</keys>
+            <description>start/stop animation</description>
+        </entry>
+        <entry>
+            <keys>[</keys>
+            <description>decrement fps</description>
+        </entry>
+        <entry>
+            <keys>]</keys>
+            <description>increment fps</description>
+        </entry>
+        <entry>
+            <keys>'</keys>
+            <description>cycle animation types</description>
+        </entry>
+        <entry>
+            <keys>SHIFT+CLICK</keys>
+            <description>select animation sequence</description>
+        </entry>
+    </section>
+
+    <section name="FILE_IO">
+        <entry>
+            <keys>ESCAPE</keys>
+            <description>abort file operation</description>
+        </entry>
+        <entry>
+            <keys>RETURN</keys>
+            <description>commit file operation</description>
+        </entry>
+        <entry>
+            <keys>CTRL+L</keys>
+            <description>load project</description>
+        </entry>
+        <entry>
+            <keys>CTRL+S</keys>
+            <description>save project</description>
+        </entry>
+        <entry>
+            <keys>CTRL+W</keys>
+            <description>write source code</description>
+        </entry>
+        <entry>
+            <keys>CTRL+ALT+W</keys>
+            <description>write PNG file</description>
+        </entry>
+    </section>
+
+</shortcuts>
+

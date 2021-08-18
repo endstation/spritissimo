@@ -1,0 +1,6 @@
+A sprite editor for use with Commodore 64 software development.
+
+Written in C++ and uses the SFML multimedia library.
+Build with the usual configure/make/make install procedure.
+
+

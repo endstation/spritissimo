@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<resolution name="pmode3">
+
+    <pixel width="2" height="2" />
+    <pixels_per_byte>4</pixels_per_byte>
+    <default_width_pixels>16</default_width_pixels>
+    <default_height_pixels>16</default_height_pixels>
+
+    <palette name="set0">
+        <color name="green"     code="0"    r="8"   g="255" b="8"   />
+        <color name="yellow"    code="1"    r="255" g="255" b="66"  />
+        <color name="blue"      code="2"    r="33"  g="16"  b="181" />
+        <color name="red"       code="3"    r="181" g="0"   b="33"  />
+    </palette>
+    <palette name="set1">
+        <color name="buff"      code="0"    r="255" g="255" b="255" />
+        <color name="cyan"      code="1"    r="8"   g="214" b="115" />
+        <color name="magenta"   code="2"    r="255" g="25"  b="255" />
+        <color name="orange"    code="3"    r="255" g="66"  b="8"   />
+    </palette>
+
+</resolution>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<resolution name="c64">
+
+    <pixel width="1" height="1" />
+    <pixels_per_byte>8</pixels_per_byte>
+    <default_width_pixels>24</default_width_pixels>
+    <default_height_pixels>21</default_height_pixels>
+
+    <palette name="standard">
+        <color name="black"         code="0"    r="0"   g="0"   b="0"   />
+        <color name="white"         code="1"    r="255" g="255" b="255" />
+        <color name="red"           code="2"    r="137" g="64"  b="54"  />
+        <color name="cyan"          code="3"    r="122" g="191" b="199" />
+        <color name="purple"        code="4"    r="138" g="70"  b="174" />
+        <color name="green"         code="5"    r="104" g="169" b="65"  />
+        <color name="blue"          code="6"    r="62"  g="49"  b="162" />
+        <color name="yellow"        code="7"    r="208" g="220" b="113" />
+        <color name="orange"        code="8"    r="144" g="95"  b="37"  />
+        <color name="brown"         code="9"    r="92"  g="71"  b="0"   />
+        <color name="pink"          code="10"   r="187" g="119" b="109" />
+        <color name="dark_grey"     code="11"   r="85"  g="85"  b="85"  />
+        <color name="grey"          code="12"   r="128" g="128" b="128" />
+        <color name="light_green"   code="13"   r="172" g="234" b="136" />
+        <color name="light_blue"    code="14"   r="124" g="112" b="218" />
+        <color name="light_grey"    code="15"   r="171" g="171" b="171" />
+    </palette>
+
+</resolution>
+
